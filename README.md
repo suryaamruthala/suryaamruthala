@@ -61,9 +61,6 @@ Web platform for photo studio owners built using **React, Express, and modern UI
 Web platform for buying and selling products online built using **React & Firebase**.
 
 ---
-
-# 📊 GitHub Stats
-
 # 📊 GitHub Stats
 
 <p align="center">
@@ -76,10 +73,6 @@ Web platform for buying and selling products online built using **React & Fireba
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=suryaamruthala&theme=radical"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=suryaamruthala&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
