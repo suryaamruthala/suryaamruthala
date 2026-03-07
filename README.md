@@ -98,3 +98,7 @@ Web platform for buying and selling products online built using **React & Fireba
 <p align="center">
 ⭐ <b>"Building intelligent systems that solve real-world problems."</b>
 </p>
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/suryaamruthala/suryaamruthala/blob/output/github-contribution-grid-snake.svg)
