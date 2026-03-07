@@ -1,30 +1,35 @@
 <h1 align="center">Hi 👋, I'm A. Surya</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast </h3>
+<h3 align="center">Full Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+AI+Powered+Applications&center=true&width=500&height=45">
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=suryaamruthala&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 💻 Passionate **Full Stack Developer**
 - 🤖 Interested in **Artificial Intelligence & Machine Learning**
 - 🚀 Building real-world applications using modern technologies
+- 🌱 Currently learning **advanced AI & scalable web systems**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 🌐 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
 ### ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=php,nodejs" />
+<img src="https://skillicons.dev/icons?i=nodejs,php,express" />
 </p>
 
 ### 🗄️ Database
@@ -44,29 +49,53 @@
 
 ---
 
-## 🚀 Featured Projects
-
+# 🚀 Featured Projects
 
 ### 🏥 Hospital Management System
-Full stack system built using **react & firebase** for hospital operations.
+Full stack system built using **React & Firebase** for hospital operations.
 
-### 💼 Photo Studio Management System
-Web platform for photo studio owners built using **react, Express, and modern UI**.
+### 📸 Photo Studio Management System
+Web platform for photo studio owners built using **React, Express, and modern UI**.
 
-### 📍 E-Commerce Site
-web platform for buy and sell products online build using **react & firebase**.
+### 🛒 E-Commerce Site
+Web platform for buying and selling products online built using **React & Firebase**.
 
 ---
 
+# 📊 GitHub Stats
 
-## 🌐 Connect With Me
+<p align="center">
 
-<p>
-<a href="https://github.com/suryaamruthala"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="amruthalasurya2@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=suryaamruthala&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryaamruthala&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=suryaamruthala&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-⭐ *"Building intelligent systems that solve real-world problems."*
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://github.com/suryaamruthala">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="#">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:amruthalasurya2@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+⭐ <b>"Building intelligent systems that solve real-world problems."</b>
+</p>
