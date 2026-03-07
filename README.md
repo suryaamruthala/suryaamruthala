@@ -61,15 +61,18 @@ Web platform for photo studio owners built using **React, Express, and modern UI
 Web platform for buying and selling products online built using **React & Firebase**.
 
 ---
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryaamruthala&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=1800" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryaamruthala&layout=compact&theme=tokyonight&cache_seconds=1800" height="180"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=suryaamruthala&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryaamruthala&layout=compact&langs_count=8&theme=radical"/>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=suryaamruthala&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=suryaamruthala&theme=radical"/>
 </p>
 
 ---
