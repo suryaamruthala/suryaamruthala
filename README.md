@@ -64,7 +64,7 @@ web platform for buy and sell products online build using **react & firebase**.
 <p>
 <a href="https://github.com/suryaamruthala"><img src="https://skillicons.dev/icons?i=github"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="amruthalasurya2@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
 
 ---
