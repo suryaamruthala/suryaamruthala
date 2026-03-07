@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm A. Surya</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast | Cybersecurity Learner</h3>
+<h3 align="center">Full Stack Developer | AI Enthusiast </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Cybersecurity+Learner;Building+AI+Powered+Applications&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+AI+Powered+Applications&center=true&width=500&height=45">
 </p>
 
 ---
@@ -11,9 +11,7 @@
 
 - 💻 Passionate **Full Stack Developer**
 - 🤖 Interested in **Artificial Intelligence & Machine Learning**
-- 🔐 Learning **Cybersecurity**
 - 🚀 Building real-world applications using modern technologies
-- 🧠 Currently working on **Project Drishti – AI-powered situational awareness platform**
 
 ---
 
@@ -21,7 +19,7 @@
 
 ### 🌐 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 ### ⚙️ Backend
@@ -36,7 +34,7 @@
 
 ### 🤖 AI & Data
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ### 🧰 Tools
@@ -48,17 +46,15 @@
 
 ## 🚀 Featured Projects
 
-### 🧠 Project Drishti
-AI-powered situational awareness platform for large public event safety.
 
 ### 🏥 Hospital Management System
-Full stack system built using **PHP & MySQL** for hospital operations.
+Full stack system built using **react & firebase** for hospital operations.
 
-### 💼 Job Searching Platform
-Web platform for job seekers and recruiters built using **PHP, MySQL, and modern UI**.
+### 💼 Photo Studio Management System
+Web platform for photo studio owners built using **react, Express, and modern UI**.
 
-### 📍 Live Location Sharing App
-Real-time location sharing system using **GPS and APIs**.
+### 📍 E-Commerce Site
+web platform for buy and sell products online build using **react & firebase**.
 
 ---
 
