@@ -63,13 +63,6 @@ Web platform for buying and selling products online built using **React & Fireba
 ---
 # 📊 GitHub Stats
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=suryaamruthala&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryaamruthala&layout=compact&langs_count=8&theme=radical"/>
-
-</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=suryaamruthala&theme=radical"/>
@@ -99,6 +92,4 @@ Web platform for buying and selling products online built using **React & Fireba
 ⭐ <b>"Building intelligent systems that solve real-world problems."</b>
 </p>
 
-## 🐍 Contribution Snake
 
-![snake gif](https://github.com/suryaamruthala/suryaamruthala/blob/output/github-contribution-grid-snake.svg)
