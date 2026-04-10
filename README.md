@@ -95,6 +95,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suryaamruthala&theme=github_dark" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=suryaamruthala&theme=dark&hide_border=true" />
+</p>
+
 
 
 
