@@ -2,11 +2,17 @@
 <h3 align="center">🚀 Full Stack Developer | 🤖 AI Engineer | Building Intelligent Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI+%26+ML+Engineer;Computer+Vision+Projects;Building+Real+World+AI+Apps&center=true&width=550&height=45&color=00F7FF">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=200&section=header&text=Surya%20Amruthala&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suryaamruthala&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI+Engineer;YOLO+%7C+Computer+Vision;Building+Real+World+AI+Apps&center=true&width=600&height=50&color=00F7FF&vCenter=true&size=22">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=suryaamruthala&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/suryaamruthala?label=Followers&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/suryaamruthala?label=Stars&style=for-the-badge&color=yellow" />
 </p>
 
 ---
@@ -23,34 +29,8 @@
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,spring" />
-</p>
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,firebase" />
-</p>
-
-### 🤖 AI & ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch" />
-</p>
-
-### 🧰 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,nodejs,express,php,spring,mysql,firebase,python,pytorch,git,github,vscode,linux,postman" />
 </p>
 
 ---
@@ -61,26 +41,26 @@
 
 🔗 https://github.com/suryaamruthala/crowd-counter
 
-* Real-time **people detection & counting using YOLOv8**
-* Built with **Python, OpenCV, Ultralytics**
+✨ Real-time **YOLOv8-based detection & counting**
+⚡ Built with **Python, OpenCV, Ultralytics**
 
 ---
 
-### 📦 Predictive Supply Chain Routing using AI
+### 📦 Predictive Supply Chain Routing
 
 🔗 https://github.com/suryaamruthala/Predictive_supply_chain_routing_using_AI
 
-* ML system to **optimize delivery routes**
-* Tech: React + Spring Boot + Python
+📊 ML-based route optimization system
+🚀 React + Spring Boot + Python
 
 ---
 
-### 📸 Photo Studio Management System
+### 📸 Photo Studio Management
 
 🔗 https://github.com/suryaamruthala/photo-studio
 
-* Web platform for **wedding photography business**
-* Tech: React, Express, TailwindCSS
+🎨 Modern UI for photography business
+⚡ React + Express + Tailwind
 
 ---
 
@@ -88,7 +68,7 @@
 
 🔗 https://github.com/suryaamruthala/smart-pickup
 
-* PHP-based system for **pickup automation**
+📦 Pickup automation system using PHP
 
 ---
 
@@ -96,22 +76,27 @@
 
 🔗 https://github.com/suryaamruthala/surya-portfolio
 
-* Futuristic portfolio with **animations & modern UI**
+✨ Futuristic UI + animations
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryaamruthala&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=suryaamruthala&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suryaamruthala&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryaamruthala&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryaamruthala&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/suryaamruthala/suryaamruthala/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -131,7 +116,7 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="www.linkedin.com/in/surya-amruthala-a10a213b5">
+<a href="https://www.linkedin.com/in/surya-amruthala-a10a213b5">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -149,5 +134,9 @@
 ---
 
 <p align="center">
-⭐ <b>"Turning ideas into intelligent systems 🚀"</b>
+✨ <b>"Turning ideas into intelligent systems 🚀"</b> ✨
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00F7FF&height=120&section=footer"/>
 </p>
