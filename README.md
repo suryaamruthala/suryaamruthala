@@ -131,7 +131,7 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="#">
+<a href="www.linkedin.com/in/surya-amruthala-a10a213b5">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
