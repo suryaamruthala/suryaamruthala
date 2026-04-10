@@ -1,125 +1,130 @@
 <h1 align="center">Hi 👋, I'm A. Surya</h1>
-<h3 align="center">Full Stack Developer | AI Engineer | Building Intelligent Systems 🚀</h3>
+<h3 align="center">🚀 Full Stack Developer | 🤖 AI Engineer | Building Intelligent Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+%26+ML+Engineer;YOLO+%7C+Computer+Vision+Projects;Building+Real+World+AI+Apps&center=true&width=600&height=50&color=00F7FF">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI+%26+ML+Engineer;Computer+Vision+Projects;Building+Real+World+AI+Apps&center=true&width=550&height=45&color=00F7FF">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suryaamruthala&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=suryaamruthala&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-- 💻 Full Stack Developer (React | Node | PHP | Spring Boot)
-- 🤖 AI Engineer focused on **Computer Vision & ML Systems**
-- 🧠 Strong in **Data Structures & Algorithms**
-- 🔥 Building **real-time AI applications (YOLO, OpenCV)**
-- 🌱 Currently exploring **Scalable AI Systems & Automation**
+* 💻 Full Stack Developer (React | Node | PHP | Spring Boot)
+* 🤖 AI Engineer specializing in **Computer Vision (YOLO, OpenCV)**
+* 🧠 Strong in **Data Structures & Algorithms**
+* 🔥 Built **AI Crowd Detection System**
+* 🌱 Exploring **Scalable AI Systems & Automation**
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### 🌐 Frontend
+
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
 </p>
 
 ### ⚙️ Backend
+
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,php,spring" />
 </p>
 
 ### 🗄️ Database
+
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,firebase" />
 </p>
 
 ### 🤖 AI & ML
+
 <p>
 <img src="https://skillicons.dev/icons?i=python,pytorch" />
 </p>
 
 ### 🧰 Tools
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🧠 AI Crowd Detection System
-🔗 https://github.com/suryaamruthala/crowd-counter  
+### 🧠 AI Crowd Detection System
 
-- Real-time **people detection & counting using YOLOv8**
-- Built with **Python, OpenCV, Ultralytics**
-- Applications in **smart surveillance & public safety**
+🔗 https://github.com/suryaamruthala/crowd-counter
 
----
-
-## 📦 Predictive Supply Chain Routing using AI
-🔗 https://github.com/suryaamruthala/Predictive_supply_chain_routing_using_AI  
-
-- ML-based system to **optimize delivery routes**
-- Built with **React + Spring Boot + Python ML**
-- Improves efficiency & reduces logistics cost
+* Real-time **people detection & counting using YOLOv8**
+* Built with **Python, OpenCV, Ultralytics**
 
 ---
 
-## 📸 Photo Studio Management System
-🔗 https://github.com/suryaamruthala/photo-studio  
+### 📦 Predictive Supply Chain Routing using AI
 
-- Full-stack app for managing **wedding photography business**
-- Built with **React, Express, TailwindCSS**
-- Features booking, gallery, and admin dashboard
+🔗 https://github.com/suryaamruthala/Predictive_supply_chain_routing_using_AI
 
----
-
-## 🌐 Smart Pickup System
-🔗 https://github.com/suryaamruthala/smart-pickup  
-
-- PHP-based system for **efficient pickup management**
-- Focus on **real-time tracking & automation**
+* ML system to **optimize delivery routes**
+* Tech: React + Spring Boot + Python
 
 ---
 
-## 🎨 Portfolio Website
-🔗 https://github.com/suryaamruthala/surya-portfolio  
+### 📸 Photo Studio Management System
 
-- Modern **futuristic portfolio**
-- Built with **React, Framer Motion, Glassmorphism UI**
+🔗 https://github.com/suryaamruthala/photo-studio
+
+* Web platform for **wedding photography business**
+* Tech: React, Express, TailwindCSS
 
 ---
 
-# 📊 GitHub Stats
+### 🌐 Smart Pickup System
+
+🔗 https://github.com/suryaamruthala/smart-pickup
+
+* PHP-based system for **pickup automation**
+
+---
+
+### 🎨 Portfolio Website
+
+🔗 https://github.com/suryaamruthala/surya-portfolio
+
+* Futuristic portfolio with **animations & modern UI**
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=suryaamruthala&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=suryaamruthala&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=suryaamruthala&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=suryaamruthala&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryaamruthala&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
----
-
-# 🧠 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suryaamruthala&theme=react-dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryaamruthala&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 🧠 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suryaamruthala&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
 <a href="https://github.com/suryaamruthala">
@@ -137,7 +142,7 @@
 
 ---
 
-# ⚡ Fun Fact
+## ⚡ Fun Fact
 
 💡 I build **AI systems that solve real-world problems**, not just projects.
 
