@@ -45,6 +45,14 @@
 ⚡ Built with **Python, OpenCV, Ultralytics**
 
 ---
+### 🍕 SliceStream – Pizza Delivery Web App
+
+🔗 https://github.com/suryaamruthala/SliceStream-Pizza-Delivery-Web-App
+
+✨ smooth animations and designs
+⚡ Built with ** built with React, Node.js, and MongoDB. Features secure authentication, custom pizza creation **
+
+---
 
 ### 📦 Predictive Supply Chain Routing
 
